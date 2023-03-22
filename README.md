@@ -1,7 +1,6 @@
 # refactor_like_pro 
 
 
-
 ### Loop refactor
 Loop refactor before :
 ```java
@@ -82,4 +81,32 @@ Another refactor for after refactor :
 ```java
 Criteria = BOOL_OPERATION_1 + BOOL_OPERATIOB_2;
 ```
+
+
+# Agile 
+
+1. Individuals/interactions > Process/tools
+2. Working software > comprehensive documentation !!!
+3. Customer collaboration > Contract negotation
+4. Responding to change > Following a plan
+5. Craftmanship > Execution
+
+### Principles of Agile
+
+1. Satisfy the customer early and continuous delivery of valuable software.
+2. Welcome changing requirements.
+3. Deliver working software frequently from weeks to months , preference short time.
+4. Business people and devs working together daily.
+5. Build projects around motivated individuals.
+6. Face to face conversations to share info.
+7. Working software is primary measure of progress.
+8. Agile processes promote sustainable development , continuous pace all integrants of project.
+9. Continuous attention to technical excellence and good design enhaces agility.
+10. Simplicity
+11. Self organaizing teams.
+12. Team reflect how to be more effective.
+
+
+        Software Craftsmanship is about professionalism in software development.
+
 
