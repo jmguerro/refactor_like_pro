@@ -83,6 +83,47 @@ Criteria = BOOL_OPERATION_1 + BOOL_OPERATIOB_2;
 ```
 
 
+### OOP Pillars
+
+1. Encapsulation
+2. Abtraction
+3. Polimorfism
+4. Inheritance
+
+ideas for Rover Refactor
+
+```java
+
+switch{
+    case -> addAxis(1,0)
+}
+
+public void addAxis(int addX, int addY){
+    return new Point(x + addX,y+addY)
+}
+
+switch{
+    case -> addAxis(new Point(1,0))
+}
+
+public void addAxis(Point point){
+    return new Point(x + point.x,y+ point.y)
+}
+```
+
+
+Poli example 
+
+```java
+Item createItem(name,sellin,amout){
+    switch(name){
+        case -> "Ham" return new Ham(sellin , amount);
+        default ->
+    }
+}
+```
+
+
 # Agile 
 
 1. Individuals/interactions > Process/tools
